@@ -6,6 +6,10 @@ multiple live distros on a USB disk
 
 MultiBootUSB [http://multibootusb.org/](http://multibootusb.org/)
 
+## Create multiple live distros on Raspberry Pi
+
+PINN System Resize [https://pinn.mjh.nz/](https://pinn.mjh.nz/)
+
 ## Live Distros
 
 Fedora - [https://getfedora.org](https://getfedora.org/)
